@@ -1,0 +1,6 @@
+c:\users\sroyalwin7\documents\visual studio 2012\Projects\ObjectSort\ObjectSort\bin\Debug\ObjectSort.exe.config
+c:\users\sroyalwin7\documents\visual studio 2012\Projects\ObjectSort\ObjectSort\bin\Debug\ObjectSort.exe
+c:\users\sroyalwin7\documents\visual studio 2012\Projects\ObjectSort\ObjectSort\bin\Debug\ObjectSort.pdb
+c:\users\sroyalwin7\documents\visual studio 2012\Projects\ObjectSort\ObjectSort\obj\Debug\ObjectSort.csprojResolveAssemblyReference.cache
+c:\users\sroyalwin7\documents\visual studio 2012\Projects\ObjectSort\ObjectSort\obj\Debug\ObjectSort.exe
+c:\users\sroyalwin7\documents\visual studio 2012\Projects\ObjectSort\ObjectSort\obj\Debug\ObjectSort.pdb
